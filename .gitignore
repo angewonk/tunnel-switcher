@@ -1,0 +1,11 @@
+node_modules/
+dist/
+release/
+build/
+__pycache__/
+*.pyc
+.vite/
+*.egg-info/
+.DS_Store
+Thumbs.db
+assets/logo-preview.png
